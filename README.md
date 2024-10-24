@@ -1,4 +1,4 @@
-Overview
+
 This is a simple JavaScript-based Quiz Application. The app allows users to answer multiple-choice questions and provides feedback on whether their answers are correct or incorrect. The score is displayed at the end of the quiz.
 
 Features
